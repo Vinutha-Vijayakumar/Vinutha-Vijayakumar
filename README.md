@@ -63,6 +63,12 @@ Whether you're here to find useful code, get inspired, or just see how someone e
 ---
 ## 🚀 Featured Projects
 
+### 🔥 TAC Victoria Road Accident & Workforce Analysis – Power BI
+- Built an **analytical Power BI report** using publicly available TAC data  
+- Demonstrates **end-to-end BI skills**: data extraction from unstructured DOCX, data modelling, DAX calculations, and interactive dashboards  
+- Provides insights on **road accidents, claims, injury severity, demographics**, and **workforce metrics**  
+- 📂 [View Project on GitHub](https://github.com/Vinutha-Vijayakumar/PowerBI-Analysisof-TACVictoria-RoadAccidentStatistics-Using-Publicly-Available-Data)
+
 ### 🔥 ETL Workflow Performance Boost – Wipro
 - ✨ Improved a production workflow from **30 mins → 10 mins**  
 - ⚡ Reduced datatype size for faster execution  
